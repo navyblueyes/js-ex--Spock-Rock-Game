@@ -6,7 +6,6 @@ html {
 
 body {
   margin: 0;
-  min-height: 100vh;
   background: whitesmoke;
   font-family: Roboto, sans-serif;
   display: flex;
@@ -15,8 +14,8 @@ body {
 }
 
 .game-container {
-  width: 80vw;
-  height: 90vh;
+  width: 500px;
+  height: 800px;
   background: white;
   border-radius: 5px;
   box-shadow: 0 10px 20px -5px rgba(0,0,0,0.5);
